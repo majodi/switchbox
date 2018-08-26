@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/majodiploegmakers/.platformio/penv/bin:/Users/majodiploegmakers/.platformio/penv:/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/bin:/Users/majodiploegmakers/.dnx/runtimes/dnx-mono.1.0.0-beta8/bin:/Users/majodiploegmakers/.dnx/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/majodiploegmakers/Library/Android/sdk/tools:/Users/majodiploegmakers/Library/Android/sdk/platform-tools:/Applications/Postgres.app/Contents/Versions/9.4/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    }
+}
